@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing much?
+- 🔭 I’m currently working on Mr.Jameson's ICS3U
 - 🌱 I’m currently learning html
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with the home buttons (they still don't work)
-- 💬 Ask me about ...
-- 📫 How to reach me: email?
+- 💬 Ask me about video games (I don't know)
+- 📫 How to reach me: kristin.doyle@stu.ocsb.ca
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I hate get to know me activities
 
