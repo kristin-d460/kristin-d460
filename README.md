@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about video games (I don't know)
 - 📫 How to reach me: kristin.doyle@stu.ocsb.ca
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I hate get to know me activities
+- ⚡ Fun fact: I like birds
 
