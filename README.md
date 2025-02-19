@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mr.Jameson's ICS3U
 - 🌱 I’m currently learning html
-- 🤔 I’m looking for help with the home buttons (they still don't work)
-- 💬 Ask me about video games (I don't know)
+- 🤔 I’m looking for help with Waterloo CCC problem (past tests) in python
+- 💬 Ask me about 
 - 📫 How to reach me: kristin.doyle@stu.ocsb.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like birds
-
